@@ -1,0 +1,6 @@
+this program gets 3 numbers from user and sorts them.
+
+1.get input from user for three numbers
+2.initialize an array 
+3.set the three numbers as the array indexes
+4.use the sort() function to sort out the numbers
