@@ -1,0 +1,12 @@
+this program adds numbers from user input, stops adding when user enters a negative number
+
+1. print "enter a psitive number. or a negative to exit"
+2.get input from the user and store in a variable input
+3.initialize sum to zero
+4.while input is grater or equal to zero
+5.sum is equal to sum + input
+6.print "enter a positive number again. negative number to quit"
+7.get input from user and store in the vairiable input
+8.exit the while loop
+9.print "the sum of numbers you enterered is = " + sum variable
+
